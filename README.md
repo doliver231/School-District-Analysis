@@ -4,41 +4,41 @@ Performing analysis on standardized test scores to showcase trends on school per
 ## Analysis
 
 ##### Deliverable 1
-!(Deliverable 1)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable1.png]
+![Deliverable 1](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable1.png)
 
 -------------------------------------------------------------------------------------------------------------
 
 ##### Deliverable 2
-!(Deliverable 2)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable2.png]
+![Deliverable 2](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable2.png)
 
-!(Deliverable 2)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable2a.png]
+![Deliverable 2](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable2a.png)
 
-!(Deliverable 2)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable2b.png]
+![Deliverable 2](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable2b.png)
 
-!(Deliverable 2)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable2c.png]
+![Deliverable 2](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable2c.png)
 
 -------------------------------------------------------------------------------------------------------------
 
 ##### Deliverable 3
-!(Deliverable 3)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable3.png]
+![Deliverable 3](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable3.png)
 
 -------------------------------------------------------------------------------------------------------------
 
 ##### Deliverable 4
-!(Deliverable 4)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable4.png]
+![Deliverable 4](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable4.png)
 
-!(Deliverable 4)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable4a.png]
+![Deliverable 4](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable4a.png)
 
-!(Deliverable 4)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable4b.png]
+![Deliverable 4](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable4b.png)
 
 -------------------------------------------------------------------------------------------------------------
 
 #### Deliverable 5
-!(Deliverable 5)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable5.png]
+![Deliverable 5](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable5.png)
 
-!(Deliverable 5)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable5a.png]
+![Deliverable 5](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable5a.png)
 
-!(Deliverable 5)[https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable5b.png]
+![Deliverable 5](https://github.com/doliver231/School-District-Analysis/blob/main/Resources/Deliverable5b.png)
 
 -------------------------------------------------------------------------------------------------------------
 
